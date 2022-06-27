@@ -7,10 +7,10 @@ Attribute VB_Name = "modMain"
 '
 ' This program demonstrates calling TOCR version 5.1 from VB6
 '
-' Copyright (C) 2021 Transym Computer Services Ltd.
+' Copyright (C) 2022 Transym Computer Services Ltd.
 '
 '
-' TOCR5.1DemoVB6 Issue1
+' TOCR5 DemoVB6
 
 Option Explicit
  
